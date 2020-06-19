@@ -4,9 +4,9 @@
 
 <p align="center">
     <a href="https://pkg.go.dev/github.com/lulucas/go-signer?tab=doc"><img src="https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white" alt="godoc" title="godoc"/></a>
-    <a href="https://github.com/lulucas/go-signer/releases"><img src="https://img.shields.io/github/v/tag/lulucas/signer" alt="semver tag" title="semver tag"/></a>
+    <a href="https://github.com/lulucas/go-signer/releases"><img src="https://img.shields.io/github/v/tag/lulucas/go-signer" alt="semver tag" title="semver tag"/></a>
     <a href="https://goreportcard.com/report/github.com/lulucas/go-signer"><img src="https://goreportcard.com/badge/github.com/lulucas/go-signer" alt="go report card" title="go report card"/></a>
-    <a href="https://github.com/lulucas/go-signer/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lulucas/signer" alt="license" title="license"/></a>
+    <a href="https://github.com/lulucas/go-signer/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lulucas/go-signer" alt="license" title="license"/></a>
 </p>
 
 <p align="center">
